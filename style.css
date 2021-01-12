@@ -7,6 +7,10 @@
   }
   h2{
       text-align: center;
+      margin-top: 5%;
+  }
+  h4{
+      text-align: center;
   }
   img{
       margin-left: 2%;
@@ -15,6 +19,10 @@
   }
   footer{
       text-align: center;
+  }
+  .name{
+      color: darkred;
+      font-weight: bold;
   }
   .LinkMenu{
       text-align: center;
@@ -27,3 +35,4 @@
   a:hover{
       color: darkturquoise;
   }
+ 
