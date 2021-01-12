@@ -1,3 +1,29 @@
 .container {
     display: flex; /* or inline-flex */
   }
+  .col{
+      justify-content: center;
+      margin-right: 5%;
+  }
+  h2{
+      text-align: center;
+  }
+  img{
+      margin-left: 2%;
+      margin-right:5%;
+      margin-bottom: 2%;
+  }
+  footer{
+      text-align: center;
+  }
+  .LinkMenu{
+      text-align: center;
+  }
+  a{
+      color: darkred;
+      font-weight: bold;
+      text-decoration: none;
+  }
+  a:hover{
+      color: darkturquoise;
+  }
