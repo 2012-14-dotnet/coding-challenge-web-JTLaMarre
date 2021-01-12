@@ -5,6 +5,10 @@
       justify-content: center;
       margin-right: 5%;
   }
+  .row{
+      flex-wrap: wrap;
+      justify-content: left;
+  }
   h2{
       text-align: center;
       margin-top: 5%;
@@ -47,5 +51,6 @@
         left: 50%;
         transform: translate(-50%, -50%);
       }
+    
   
  
